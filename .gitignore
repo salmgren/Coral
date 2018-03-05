@@ -18,3 +18,4 @@ tests/_support/_generated/
 /usage/error_log
 /resources/utiltests.php
 /common/admin/classes/localPHPMailer.php
+/common/bootstrap3/
