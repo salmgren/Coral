@@ -23,3 +23,6 @@ tests/_support/_generated/
 /resources/admin/coral2_configuration.ini
 /css/ejwl_style.css
 /error_log
+/ejwlorg.coral20181217.sql
+/coral3_resources.sql
+/coral_mysql_download.sql
