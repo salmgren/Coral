@@ -18,6 +18,7 @@ tests/_support/_generated/
 /usage/error_log
 /resources/utiltests.php
 /common/admin/classes/localPHPMailer.php
+<<<<<<< OURS
 /common/bootstrap3/
 /UpgradeManuals.txt
 /resources/admin/coral2_configuration.ini
@@ -26,3 +27,6 @@ tests/_support/_generated/
 /ejwlorg.coral20181217.sql
 /coral3_resources.sql
 /coral_mysql_download.sql
+=======
+/common/bootstrap3/
+>>>>>>> THEIRS
